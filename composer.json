@@ -1,0 +1,20 @@
+{
+    "name": "deemeetar/translations-reformat",
+    "description": "",
+    "authors": [
+        {
+            "name": "Dimitar Spiroski",
+            "email": "dimitar.spiroski@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Deemeetar\\TranslationsReformat": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
